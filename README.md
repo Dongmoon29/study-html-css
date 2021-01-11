@@ -1,3 +1,3 @@
 # study-html-css
-deployed on netlify
-https://admiring-rosalind-6fcc8e.netlify.app/
+
+> CSS 학습한 내용 
