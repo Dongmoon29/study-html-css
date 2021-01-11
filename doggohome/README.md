@@ -4,3 +4,6 @@
 
 #### Deployed on netlify
 > https://app.netlify.com/sites/admiring-rosalind-6fcc8e/overview
+
+>> flex box visual reference
+>>> https://flexbox.malven.co/
